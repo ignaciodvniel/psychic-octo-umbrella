@@ -21,7 +21,7 @@ Muchas veces en la U y en privado hablaba del miedo que tenía por perderte. Me 
 
 Es cierto, dije que eres un desastre, no te conocí así y entiendo que las circunstancias de la vida te metieron en un hoyo que cualquiera caería, siempre lo supe, siempre te entendí. Más aún ahora con la muerte de la mamá del Joaquín, a quien acompañé tal como lo hice contigo. Intenté seguir a tu lado, pero entiendo el asco que sentías hacia mí, traicioné tu confianza y no hay ninguna excusa que valga.
 
-Dios sabe cuanto te amo y como jamás te olvidaré, no importa lo que pase, mi primer y único amor, la mujer que me enseñó que a amar y que te amen. Como quisiera haber luchado no solo en lo práctico, sino también en lo emocional, tener las herramientas necesarias y hacerte sentir amada, por todo el cariño que puedo darte, que no fue entregado.
+Dios sabe cuanto te amo y como jamás te olvidaré, no importa lo que pase, mi primer y único amor, la mujer que me enseñó a amar y que te amen. Como quisiera haber luchado no solo en lo práctico, sino también en lo emocional, tener las herramientas necesarias y hacerte sentir amada, por todo el cariño que puedo darte, que no fue entregado.
 
 No te escribí ni llamé por verte con alguien más, colapsé en llanto mucho antes ese día, ni siquiera te había visto. De todas formas es un dolor inimaginable.
 
