@@ -139,9 +139,3 @@ html_content = f"""
 
 # Renderizamos el HTML dentro de Streamlit
 components.html(html_content, height=520, scrolling=True)
-
-# Pequeña nota en la interfaz (no seleccionable tampoco por CSS del componente)
-st.markdown(
-    "<small>Este visualizador evita la selección y la copia del texto en condiciones normales.</small>",
-    unsafe_allow_html=True
-)
