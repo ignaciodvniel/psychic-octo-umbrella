@@ -3,7 +3,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 import html as html_lib
 
-st.set_page_config(page_title="Visualizador de Carta — No seleccionar", layout="centered")
+st.set_page_config(page_title="13-09-2025", layout="centered")
 
 # --------------------------
 # Aquí pones la carta (dentro del código)
